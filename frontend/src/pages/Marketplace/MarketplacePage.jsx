@@ -406,7 +406,7 @@ const MarketplacePage = () => {
                   <img
                     src={
                       service.advisor?.avatar ||
-                      'https://images.unsplash.com/photo-1560250097-0b93528c311a?w=64&fit=crop'
+                      'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-transparent-600nw-2534623311.jpg'
                     }
                     className="w-14 h-14 rounded-full object-cover border-2 border-white dark:border-gray-600 shadow-sm"
                     alt="Advisor"
