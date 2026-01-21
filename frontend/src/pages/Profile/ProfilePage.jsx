@@ -93,6 +93,8 @@ const ProfilePage = () => {
             <div>
               <h1 className="text-2xl font-bold text-gray-900 dark:text-white tracking-tight">
                 {user.firstName} {user.lastName}
+                This website is used for testing payment gateway integration
+                for development purposes only. No real payments are processed.
               </h1>
               <p className="text-gray-600 dark:text-gray-400 flex items-center justify-center sm:justify-start gap-2 mt-1">
                 <Briefcase className="w-4 h-4" /> 
